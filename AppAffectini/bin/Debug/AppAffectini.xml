@@ -1,0 +1,656 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppAffectini
+</name>
+</assembly>
+<members>
+<member name="T:AppAffectini.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.arrow_down">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.arrow_down1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.arrow_up">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.arrow_up1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.backup">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.backup1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_account_circle_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_account_circle_black_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_cancel_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_cancel_black_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_cancel_black_18dp2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_exit_to_app_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_exit_to_app_black_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_exit_to_app_white_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_fiber_new_white_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_help_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_history_white_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_lock_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_menu_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_menu_black_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_person_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_person_black_18dp1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.baseline_verified_user_black_18dp">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.calendar__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.clipboard">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.clipboard1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.clock">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.close">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.hacker">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.home">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.home1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.home11">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_asc_64">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_microsoft_excel_filled_50">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_microsoft_excel_filled_501">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_microsoft_excel_filled_502">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_pdf_64">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.icons8_print_64">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.info__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.lan">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.lan1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.lock">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.lock1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.lock2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.logout">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.logout1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.man_user">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.max">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.menu">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.menu1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.menuIcon">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.question_mark">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.raise_your_hand_to_ask__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.raise_your_hand_to_ask__1_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.reload">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.reload1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.security_on">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.send">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.shuffle__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.shuffle__2_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.shuffle__2_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.shuffle__3_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.statistics">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.statistics1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__2_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__2_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__4_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__4_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__4_2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.student__5_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.te">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.test__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.test__1_1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.undo">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.university">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.university1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppAffectini.My.Resources.Resources.user">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.affectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.CrystalReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.emploiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.ETUDIANTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.examDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.INSCRITMODULEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.localDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MODULESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MOYENNEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.SallesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.affectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.CrystalReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.emploiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.ETUDIANTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.examRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.INSCRITMODULERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.localRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MODULESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MOYENNERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.SallesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.affectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.CrystalReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.emploiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.ETUDIANTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.examRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.INSCRITMODULERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.localRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MODULESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.MOYENNERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSet.SallesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.affectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.CrystalReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.emploiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.ETUDIANTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.examTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.INSCRITMODULETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.localTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.MODULESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.MOYENNETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.SallesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AppAffectini.AffectationDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AppAffectini.AffectationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AppAffectini.AffectationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.UpdateAll(AppAffectini.AffectationDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AppAffectini.AffectationDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

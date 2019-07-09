@@ -1,0 +1,78 @@
+*{
+	padding: 0;
+   	margin: 0;
+
+}
+#div1{ width: 1000px;
+		margin: 0  auto;
+        border-radius: 15px;
+	}
+	header{
+		width: 1000px;
+		/*height:auto;*/
+		padding: 15px 0px;
+		background-color:#00264d;
+		border-radius: 15px;
+
+	}
+	header h1{ color: white;
+							font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+							font-size: 40px;
+ 							/*padding: 15px 12px 60px 60px;*/
+							text-align: center;
+ 							
+						}
+						
+						
+	#sec1{ 
+	                   /* float: left;*/
+ 						width: 1000px
+						border-radius: 15px;
+		}
+	article{
+				
+ 				
+				width: 1000px;
+ 				padding: 200px 0px;
+				border-radius: 50px;
+				border:2px solid #00e6ac;
+		}
+
+.title{
+    
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+	font-size: 30px;
+    width:405px;
+    /*height:60px;*/
+    margin-left: 297px;
+    margin-right: 297px;
+    background-color:#00e6ac;
+	border-radius: 12px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+	.text
+
+{
+    float: left;
+    color: #103d3a;
+    font-size: 1.5em;
+    margin-left: 60px;
+	margin-top: -120px;
+    
+    
+}
+.text > ul
+{
+     margin-left: 60px;
+
+}
+ul > ul{
+margin-left: 70px;
+}
+#partie2{
+height: 680px;
+}

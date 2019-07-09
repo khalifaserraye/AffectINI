@@ -1,0 +1,170 @@
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\user_pc\Desktop\WorkStudio\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\user_pc\Desktop\interface\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\FlashControlV71.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\bin\Debug\stdole.dll
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form2.resources
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CopyComplete
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Dialog1.resources
+C:\Users\My PC\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form3.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\bin\Debug\stdole.dll
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Dialog1.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form2.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form3.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CopyComplete
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\fatah\Desktop\App\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\stdole.dll
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Dialog1.resources
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form2.resources
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form3.resources
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CopyComplete
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\fatah\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe.config
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.pdb
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\FlashControlV71.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\bin\Debug\stdole.dll
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Dialog1.resources
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.AffectINI.resources
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form2.resources
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Form3.resources
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.Resources.resources
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.GenerateResource.cache
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbproj.CopyComplete
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\My PC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb
+C:\Users\TRETEC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.vbprojAssemblyReference.cache
+C:\Users\TRETEC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.exe
+C:\Users\TRETEC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.xml
+C:\Users\TRETEC\Desktop\App(latest version)\AppAffectini\AppAffectini\obj\Debug\AppAffectini.pdb

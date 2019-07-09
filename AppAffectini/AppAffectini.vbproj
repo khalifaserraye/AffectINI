@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52F40E3B-B3C2-46BF-BD08-1DBC4EF9AF2E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AppAffectini.My.MyApplication</StartupObject>
+    <RootNamespace>AppAffectini</RootNamespace>
+    <AssemblyName>AppAffectini</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AppAffectini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AppAffectini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AffectationDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AffectationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dialog1.Designer.vb">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAffichCrystalReports.vb" />
+    <Compile Include="MAffichEtudiant.vb" />
+    <Compile Include="MAffichMatiere.vb" />
+    <Compile Include="MAffichSale.vb" />
+    <Compile Include="MExitFenetre.vb" />
+    <Compile Include="MFilleAccessTable.vb" />
+    <Compile Include="MFillExam.vb" />
+    <Compile Include="MFillModule.vb" />
+    <Compile Include="MFillPromo.vb" />
+    <Compile Include="MFillSemestre.vb" />
+    <Compile Include="MGetTable.vb" />
+    <Compile Include="MMaxFenetre.vb" />
+    <Compile Include="MMinFenetre.vb" />
+    <Compile Include="MRequette.vb" />
+    <Compile Include="MRunCommand.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialog1.resx">
+      <DependentUpon>Dialog1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <None Include="Resources\university.png" />
+    <None Include="Resources\clipboard.png" />
+    <None Include="AffectationDataSet.xsc">
+      <DependentUpon>AffectationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AffectationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AffectationDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AffectationDataSet.xss">
+      <DependentUpon>AffectationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\security-on.png" />
+    <None Include="Resources\logout1.png" />
+    <None Include="Resources\question-mark.png" />
+    <None Include="Resources\info %281%29.png" />
+    <None Include="Resources\menu1.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\lock2.png" />
+    <None Include="Resources\man-user.png" />
+    <None Include="Resources\statistics1.png" />
+    <None Include="Resources\student %282%291.png" />
+    <None Include="Resources\hacker.png" />
+    <None Include="Resources\lan1.png" />
+    <None Include="Resources\student %284%291.png" />
+    <None Include="Resources\test %281%291.png" />
+    <None Include="Resources\raise-your-hand-to-ask %281%291.png" />
+    <None Include="Resources\max.png" />
+    <None Include="Resources\student %285%29.png" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\calendar %281%29.png" />
+    <None Include="Resources\home1.png" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\reload.png" />
+    <None Include="Resources\shuffle %283%29.png" />
+    <None Include="Resources\shuffle %282%29.png" />
+    <None Include="Resources\shuffle %281%29.png" />
+    <None Include="Resources\icons8-asc-64.png" />
+    <None Include="Resources\icons8-print-64.png" />
+    <None Include="Resources\icons8-pdf-64.png" />
+    <None Include="Resources\icons8-microsoft-excel-filled-50.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\undo.png" />
+    <None Include="Resources\send.png" />
+    <None Include="Resources\baseline_exit_to_app_white_18dp1.png" />
+    <None Include="Resources\baseline_history_white_18dp.png" />
+    <None Include="Resources\baseline_fiber_new_white_18dp.png" />
+    <None Include="Resources\statistics.png" />
+    <None Include="Resources\student %282%29.png" />
+    <None Include="Resources\lan.png" />
+    <None Include="Resources\raise-your-hand-to-ask %281%29.png" />
+    <None Include="Resources\test %281%29.png" />
+    <None Include="Resources\student %284%29.png" />
+    <None Include="Resources\backup.png" />
+    <None Include="Resources\arrow-up1.png" />
+    <None Include="Resources\arrow-down1.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\arrow-up.png" />
+    <None Include="Resources\arrow-down.png" />
+    <None Include="Resources\lock1.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\baseline_verified_user_black_18dp.png" />
+    <None Include="Resources\baseline_lock_black_18dp.png" />
+    <None Include="Resources\baseline_person_black_18dp1.png" />
+    <None Include="Resources\baseline_person_black_18dp.png" />
+    <None Include="Resources\baseline_cancel_black_18dp2.png" />
+    <None Include="Resources\baseline_cancel_black_18dp1.png" />
+    <None Include="Resources\baseline_cancel_black_18dp.png" />
+    <None Include="Resources\baseline_account_circle_black_18dp1.png" />
+    <None Include="Resources\baseline_account_circle_black_18dp.png" />
+    <None Include="Resources\baseline_help_black_18dp.png" />
+    <None Include="Resources\baseline_exit_to_app_black_18dp.png" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menuIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\te.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baseline_menu_black_18dp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baseline_menu_black_18dp1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
